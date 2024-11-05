@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ujeleuya.github.io/ALM/sitemap_index.txt
+Sitemap: https://ujeleuya.github.io/Kor/sitemap_index.txt
+Sitemap: https://ujeleuya.github.io/Tin/sitemap_index.txt
+Sitemap: https://ujeleuya.github.io/ado/sitemap_index.txt
